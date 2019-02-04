@@ -1,3 +1,8 @@
+# Name Placeholder
+
+## Description
+this app will be a calculator, a graphic interface, or a simple game, I still havent made a final decision.
+____________________________
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JordanFleegle/myCIS277FinalApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
