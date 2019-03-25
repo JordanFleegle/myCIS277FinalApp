@@ -1,7 +1,7 @@
-# Name Placeholder
+# Glorious Tetris
 
 ## Description
-this app will be a calculator, a graphic interface, or a simple game, I still havent made a final decision.
+A simple game of tetris for the discerning gamer.
 ____________________________
 ## Welcome to GitHub Pages
 
