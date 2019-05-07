@@ -14,3 +14,5 @@ current development focus:
   - exploring possible audio assets.
 
 ![Alexey Pajitnov's Tetris](https://upload.wikimedia.org/wikipedia/en/7/7c/Tetris-VeryFirstVersion.png)
+
+Credit and thanks to https://github.com/antonte , who's implementation of SDL2 functions served as a reference for my own. 
